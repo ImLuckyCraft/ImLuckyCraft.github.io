@@ -13,7 +13,7 @@
       </style>
    </head>
    <body>
-     <p style="font-size: 20px; color: green;">Абзац со стилем, указанным прямо в теге!</p>
+     <p style="font-size: 36px; color: green;">Абзац со стилем, указанным прямо в теге!</p>
      <div class="note">Абзац класса "note"</div>
    </body>
 </html>
